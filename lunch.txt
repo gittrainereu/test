@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 this is the master change
+these are the feature-4711 changes
+>>>>>>> feature-4711
